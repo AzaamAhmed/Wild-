@@ -1,4 +1,4 @@
-### Wild ශ්‍රී ලංකා - FrontEnd page
+### Wild ශ්‍රී ලංකා - FrontEnd Page
 
 The frontend of the "Wild ශ්‍රී ලංකා" webpage is meticulously designed to provide an immersive and visually stunning experience, showcasing the diverse wildlife of Sri Lanka. Utilizing HTML for structured content, the site features a prominent header with the title "Wild ශ්‍රී ලංකා", a main content area highlighting various wildlife sections, and a footer with supplementary resources. The CSS enhances this foundation with a cohesive color palette inspired by natural hues, ensuring a visually appealing and inviting atmosphere. Responsive design principles are implemented to guarantee an optimal viewing experience across all devices, complemented by carefully selected typography that enhances readability and aesthetic harmony.
 
